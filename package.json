@@ -1,0 +1,40 @@
+{
+  "name": "chofn-vue",
+  "version": "1.0.0",
+  "description": "超凡-VUE 项目，包含基础项目结构以及在多个产品线复用的通用基础组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nk232806338/chofn-vue.git"
+  },
+  "author": "niekai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nk232806338/chofn-vue/issues"
+  },
+  "homepage": "https://github.com/nk232806338/chofn-vue#readme",
+  "devDependencies": {
+    "babel-core": "^6.10.4",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-transform-object-rest-spread": "^6.8.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.9.0",
+    "html-webpack-plugin": "^2.22.0",
+    "json-loader": "^0.5.4",
+    "less": "^2.7.1",
+    "less-loader": "^2.2.3",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "walk": "^2.3.9",
+    "webpack": "^1.13.1"
+  },
+  "dependencies": {
+    "vue": "^1.0.26"
+  }
+}
